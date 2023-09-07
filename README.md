@@ -2,6 +2,7 @@
 Collections of EuroCrypt Cards and software from different archived web pages from the D2Mac and analogue satellite era from 90s-2003. 
 
 This is intended to use for fsphill's HackTV: https://github.com/fsphil/hacktv 
+and steeviebops HackTV GUI: https://github.com/steeviebops/jhacktv-gui
 and with Captain Jack's HackTV fork of encryption system EuroCrypt: https://github.com/captainjack64/hacktv
 
 DISCLAIMER:
