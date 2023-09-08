@@ -1,5 +1,5 @@
 # The EuroCrypt - D2MAC Archive
-Collections of EuroCrypt Cards and software saved and indexed from various different archived webpages from the D2Mac and analogue satellite era from the 1990s-2006.
+Collections of various EuroCrypt Cards and software saved and indexed from different archived webpages from the D2Mac and analogue satellite era from the 1990s-2006.
 
 This is intended to use with fsphill's HackTV: https://github.com/fsphil/hacktv 
 
