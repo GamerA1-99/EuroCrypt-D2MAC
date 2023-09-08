@@ -11,6 +11,6 @@ DISCLAIMER:
 
 This is only for hobby and educational use and cannot be used for todays digital broadcasting (DVB-S/DVB-S2) since nothing is broadcasted with EuroCrypt today and it is a analogue system and cannot be use for modern encryption systems either, this is because since EuroCrypt havn't been updated nor used since 2006 with the danish channel DR2 in scandinavia as the last channel and D2Mac broadcasting which had EuroCrypt as encryption and been abnonded since. This can however be used for project like for exsample: HackTV's EuroCrypt encryption and receviers connected to the HackTV system.
 
-Files and howto will soon be uploaded here :)
+
 
 Sincerely GamerA1-99
