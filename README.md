@@ -1,4 +1,4 @@
-# EuroCrypt - D2MAC
+# The EuroCrypt - D2MAC Archive
 Collections of EuroCrypt Cards and software from different archived web pages from the D2Mac and analogue satellite era from 90s-2006.
 
 This is intended to use with fsphill's HackTV: https://github.com/fsphil/hacktv 
