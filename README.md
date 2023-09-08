@@ -13,4 +13,4 @@ This is only for hobby and educational use and cannot be used for todays digital
 
 First version of this collection is now made availible on this github page: https://github.com/GamerA1-99/The-EuroCrypt-D2MAC-Archive/releases/tag/v1.0.0
 
-Sincerely GamerA1-99
+Sincerely GamerA1
