@@ -1,5 +1,5 @@
-# The EuroCrypt - D2MAC Archive
-Collections of various EuroCrypt Cards and files for M/S2 and DES3 and software to be used with the EuroCrypt system, saved and indexed from different archived webpages and from personal archive from the D2Mac and analogue satellite era from the 1990s-2006.
+# The Analogue Satellite & TV Crypto
+Collections of various analogue satellite & tv crypto files and software for various systems like VideoCrypt I & II, EuroCrypt M, S, S2, 3DES and Syster Nagravision. All of this is saved and indexed from different archived webpages, forums, file servers and from personal archive from the analogue satellite and TV era from the 1990s-2006.
 
 This is intended to use with fsphill's HackTV: https://github.com/fsphil/hacktv 
 
@@ -9,8 +9,6 @@ in combination with Captain Jack's HackTV fork of encryption system EuroCrypt: h
 
 DISCLAIMER:
 
-This is only for hobby and educational use and cannot be used for todays digital broadcasting (DVB-S/DVB-S2) since nothing is broadcasted with EuroCrypt today and it is a analogue system and cannot be use for modern encryption systems either, this is because since EuroCrypt havn't been updated nor used since 2006 with the danish channel DR2 in scandinavia as the last channel and D2Mac broadcasting which had EuroCrypt as encryption and been abnonded since. This can however be used for project like for exsample: HackTV's EuroCrypt encryption and receviers connected to the HackTV system.
-
-First version of this collection is now made availible on this github page: https://github.com/GamerA1-99/The-EuroCrypt-D2MAC-Archive/releases/tag/v1.0.0
+This is only for hobby and educational use and cannot be used for todays digital broadcasting (DVB-S/DVB-S2) since nothing is broadcasted with the mentioned analogue encryptions today and it is analogue systems and cannot be use for modern encryption systems either, this is because none of this systems havn't been updated nor used since 2010 and been abnonded since. These files and programs can however be stil used for projects like for exsample: HackTV's encryption and receviers connected to the HackTV system.
 
 Sincerely GamerA1
